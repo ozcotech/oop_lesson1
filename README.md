@@ -158,7 +158,7 @@ class Student:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/oop-examples.git](https://github.com/ozcotech/oop_lesson1.git)
+   [git clone https://github.com/ozcotech/oop_lesson1.git](https://github.com/ozcotech/oop_lesson1.git)
    ```
 2. Navigate to the project directory:
    ```bash
