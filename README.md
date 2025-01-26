@@ -158,7 +158,7 @@ class Student:
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/ozcotech/oop_lesson1.git](https://github.com/ozcotech/oop_lesson1.git)
+   [git clone https://github.com/ozcotech/oop_lesson1.git]
    ```
 2. Navigate to the project directory:
    ```bash
@@ -175,5 +175,3 @@ class Student:
 ## Contributions
 Contributions are welcome! Feel free to submit a pull request or open an issue to enhance this repository.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
